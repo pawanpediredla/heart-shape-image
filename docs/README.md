@@ -1,14 +1,8 @@
-# Project Title
-
-## Description
-heart -shape-image 
-## Installation
 git clone https://github.com/pawanpediredla/heart-shape-image.git
+
 cd hear-shape
 
-## Usage
-cd hear-shape
+start index.html
 
-## License
 
 
