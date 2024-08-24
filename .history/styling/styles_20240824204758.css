@@ -1,0 +1,6 @@
+img{
+ --s:300px;
+    width: var(--s);
+    aspect-ratio: 1;
+    
+}

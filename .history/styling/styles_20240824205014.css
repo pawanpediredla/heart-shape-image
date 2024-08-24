@@ -1,0 +1,10 @@
+img{
+ --s:300px;
+    width: var(--s);
+    aspect-ratio: 1;
+    padding: calc(.09 * var(--s)) calc(var(--s))/ 2 - var(--_p);
+    box-sizing: border-box;
+    object-fit: cover;
+    border-image: radial-gradient(#e5414e 69%, #0000 70%) 84.5% / calc(var(--s));
+    clip-path: ;
+}
